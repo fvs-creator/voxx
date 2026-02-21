@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fvs-creator/FVS-vs/refs/heads/main/loader.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/Y9TCT3da/raw"))()
